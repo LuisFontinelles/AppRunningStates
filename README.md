@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bd005ea4-02d7-4af8-93ea-6d6c669484f8)# Estados de Execução de um App no iOS
+# Estados de Execução de um App no iOS
 
 Quando um aplicativo roda no iOS, ele passa por diferentes estados, e entender isso ajuda a otimizar o desempenho e evitar problemas.
 
