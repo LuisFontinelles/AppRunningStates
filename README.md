@@ -1,4 +1,4 @@
-# Estados de Execução de um App no iOS
+![image](https://github.com/user-attachments/assets/bd005ea4-02d7-4af8-93ea-6d6c669484f8)# Estados de Execução de um App no iOS
 
 Quando um aplicativo roda no iOS, ele passa por diferentes estados, e entender isso ajuda a otimizar o desempenho e evitar problemas.
 
@@ -9,6 +9,11 @@ Quando um aplicativo roda no iOS, ele passa por diferentes estados, e entender i
 - **Background:** O app está rodando em segundo plano e pode executar algumas tarefas limitadas, como música ou GPS.
 - **Not Running:** O app não está na memória. Isso acontece quando ele é fechado pelo usuário ou encerrado pelo sistema.
 - **Suspended:** O app ainda está na memória, mas não está executando código. Se o iOS precisar de recursos, ele pode ser encerrado sem aviso.
+
+![image](https://github.com/user-attachments/assets/63dbf63f-fa1a-4132-835a-1149174c107c)
+
+Imagem retirada da documentação da Apple
+
 
 ---
 
